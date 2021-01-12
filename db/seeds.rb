@@ -11,3 +11,8 @@ User.create(username: 'johndoe', password: 'dambatta')
 User.create(username: 'janedoe', password: 'dambatta')
 User.create(username: 'donn', password: 'dambatta')
 User.create(username: 'amirdbt10', password: 'dambatta')
+
+Message.create(body: 'Hello everyone', user_id: 1)
+Message.create(body: 'Hello everyone', user_id: 2)
+Message.create(body: 'Hello everyone', user_id: 3)
+Message.create(body: 'Hey there, I am here people', user_id: 5)
